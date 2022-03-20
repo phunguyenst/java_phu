@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+E:\20048881_Nguyen van phu\.metadata\.plugins\org.eclipse.jdt.core
+3728796729.index
+925059340.index
+1543140616.index
+1076132250.index
+1963909845.index
+3988400488.index
+2921994422.index
+1642175237.index
+2498518310.index

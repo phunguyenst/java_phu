@@ -1,0 +1,6 @@
+1635168121433	Extract local variable 'dayOfYear'
+1635168129812	Extract local variable 'dayOfMonth'
+1635413832706	Rename type 'KhachHang'
+1635414882255	Rename type 'DanhMucKhachHang'
+1635414920297	Rename type 'KhachHangNuocNgoai'
+1635414974840	Rename type 'KhachHangVietNam'
